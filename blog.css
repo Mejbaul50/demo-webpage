@@ -1,0 +1,86 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(163, 158, 158);
+}
+h1,h3 {
+    text-align: center;
+    text-justify: auto;
+}
+.first{
+    height: 300px;
+    width: 30%;
+    background-color: antiquewhite;
+    text-align: left;
+    display: inline-block;
+    margin-right: 3%;
+    padding-left: 5px;
+    position: relative;
+
+}
+img{
+    height: 120px;
+    width: 200px;
+    position:absolute;
+    padding:20px 80px 20px;
+    position: relative;
+}
+p{
+    text-align: left;
+    margin-top: 0px;
+    position: relative;
+    padding-left: 10px;
+
+}
+.first button{
+    position: relative;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    margin-left: 10px;
+    background-color: antiquewhite;
+  
+}
+
+.second{
+    height: 300px;
+    width: 30%;
+    background-color: rgb(133, 89, 32);
+    display: inline-block;
+    text-align: center;
+    margin-right: 3%;
+} 
+.second button{
+    position: relative;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    margin-right: 300px;
+    background-color: rgb(133, 89, 32);
+  
+}
+.third{
+    height: 300px;
+    width: 30%;
+    background-color: rgb(92, 83, 72);
+    display: inline-block;
+    text-align: right;
+    margin-right: 3%;
+    
+}
+.third button{
+    position: relative;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    margin-right: 310px;
+    background-color: rgb(92, 83, 72);
+  
+}
+.middle button{
+    height: 50px;
+    width: 100px;
+    position: relative;
+    margin:50px 600px 10px ;
+    display: inline-block;
+    padding: 50px 20x;
+    background-color: darkslategrey;
+}
+
